@@ -1,0 +1,14 @@
+{
+    "token" : "6585993852:AAE3l4hSNHLT64bg1wVix3n41In2ufPWziU",
+    "chat_id" : -4188412636,
+    "recipients" : [
+        {
+            "name" : "Дизайнер",
+            "tag" : "@designer"
+        },
+        {
+            "name" : "Редактор",
+            "tag" : "@redactor"
+        }
+    ]
+}
